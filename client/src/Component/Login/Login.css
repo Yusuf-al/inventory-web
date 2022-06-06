@@ -1,0 +1,90 @@
+.login-div{
+    min-height: 80vh;
+}
+.login-container{
+  width: 450px;
+  min-height: 400px;
+  margin:50px auto;  
+  padding: 15px;
+  background-color: rgb(252, 252, 252);
+  border: 1px solid lightgray;
+  box-shadow: 15px -12px 0px -3px rgb(137, 34, 246);
+}
+.login-form form{
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form h1{
+    text-align: center;
+    font-family: 'Changa',sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    font-weight: 500;
+    margin-bottom: 0;
+    color: rgb(177, 57, 252);
+}
+.login-form form label{
+    margin: 8px 0;
+    color: rgb(177, 55, 253);
+}
+.login-form form input{
+    height: 35px;
+    padding-left: 5px;
+    outline: none;
+    border: none;
+    background-color: whitesmoke;
+    border-bottom: 1px solid rgb(137, 34, 246) ;
+}
+
+.login-btn{
+    margin:15px auto;
+    padding: 10px;
+    width: 120px;
+    background-color: tomato;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    border-radius: 20px;
+    transition: all .3s;
+
+}
+.login-btn:hover{
+    background-color: #fb4d2e;
+}
+
+.reg-link p{
+    margin-bottom: 15px;
+    text-align: center;
+    color: rgb(137, 16, 250);
+}
+
+.social-signin p{
+margin-top: -10px;
+text-align: center;
+}
+.social-signin button{
+display: flex;
+align-items: center;
+margin: 0 auto;
+border-radius: 20px;
+background-color: blueviolet;
+border: none;
+padding: 10px;
+margin-top: -10px;
+color: white;
+cursor: pointer;
+}
+.social-signin button span{
+    margin-left: 8px;
+}
+@media screen and (max-width: 720px){
+    .login-container{
+        width: 90%;
+        padding: 10px;
+    }
+    .login-form{
+        width: 100%;
+        
+    }
+}

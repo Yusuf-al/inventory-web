@@ -1,0 +1,47 @@
+.inventory-div{
+    width: 80rem;
+    margin: 50px auto;
+    min-height: 80vh;
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+.inv-link{
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+}
+.inv-link a{
+    width: 140px;
+    text-align: center;
+    font-family: 'Lato',sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 15px;
+    padding: 10px 10px;
+    background-color: rgb(181, 55, 231);
+    color: white;
+    border-radius: 8px;
+}
+.inv-link a:hover{
+    background-color:rgb(160, 34, 210) ;
+}
+
+@media screen and (max-width: 720px){
+    .inventory-div{
+        width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .item-div{
+        padding: 10px;
+    }
+    .inv-link{
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        justify-content: center;
+
+    }
+    .inv-link a{
+        margin-left: 5px;
+    }
+}

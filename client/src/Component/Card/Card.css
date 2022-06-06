@@ -1,0 +1,42 @@
+.card-div{
+    width: 300px;
+    min-height: 300px;
+    background-color: rgb(235 235 235);
+    margin-bottom: 30px;
+    border: 1px solid lightgray;
+}
+.card-div img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.card-div h4{
+    text-align: center;
+    font-family: 'Lato',sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    color: tomato;
+    margin-top: 10px;
+}
+.card-div p{
+    text-align: center;
+    font-family: 'Lato',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.card-div a{
+    background-color: blueviolet;
+    padding: 10px 0;
+    width: 100%;
+    display: block;
+    color: white;
+    margin-top: 15px;
+    text-align: center;
+}
+.card-div a:hover{
+    background-color: rgb(103, 10, 190);
+}

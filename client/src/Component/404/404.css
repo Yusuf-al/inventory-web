@@ -1,0 +1,22 @@
+.not-found-div{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height: 100vh;
+    align-items: center;
+
+}
+.not-found-div img{
+    margin-top: 122px;
+}
+.not-found-div h1{
+    font-size: 140px;
+    font-family: 'Acme',sans-serif;
+    color: rgb(215, 215, 216);
+    margin-bottom: 0;
+}
+
+.not-found-div h2{
+    font-size: 60px;
+    color: rgb(163, 163, 163);
+    font-family: 'Poppins',sans-serif;
+}

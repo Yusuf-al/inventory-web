@@ -1,0 +1,18 @@
+.container{
+    width: 80rem;
+    min-height: 80vh;
+    margin: 0 auto;
+}
+
+.qs-ans{
+    text-align: left;
+    border: 1px solid lightgray;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    margin-bottom: 20px;
+}
+.qs-ans b{
+    margin-bottom: 5px;
+    display: block;
+}

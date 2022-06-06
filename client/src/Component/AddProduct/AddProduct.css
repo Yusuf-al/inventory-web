@@ -1,0 +1,40 @@
+.addPro-div{
+    width: 80rem;
+    margin: 50px auto;
+    min-height: 100vh;
+    margin-bottom: 100px;
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.add-pro-container{
+    width: 600px;
+    background-color: rgb(252, 252, 252);
+  border: 1px solid lightgray;
+  box-shadow: 15px -12px 0px -3px rgb(137, 34, 246);
+    padding: 15px;
+    margin: 0 auto;
+    
+}
+textarea{
+    padding: 10px;
+    height: 90px;
+    font-family: 'Lato',sans-serif;
+    outline: none;
+    border: 1px solid blueviolet;
+    resize: none;
+    font-weight: 600;
+}
+@media screen and (max-width: 720px){
+    .addPro-div{
+        width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .add-pro-container{
+        width: 90%;
+        margin-top: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+

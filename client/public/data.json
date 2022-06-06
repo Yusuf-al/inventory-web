@@ -1,0 +1,111 @@
+[
+    {
+     
+         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+         "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/new-honda-cbr-150r-black-red60d8585793885.webp",
+         "name": "Honda CBR 150R",
+         "brand": "Honda",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "540,000 "
+    },
+    {
+         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+         "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/aprilia-gpr-150-bike60dc2304db1c6.webp",
+         "name": "Aprilia GPR 150",
+         "brand": "Aprilia",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "371,000 "
+    },
+    {
+         "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+         "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/suzuki-gsx-r150-black60d70ae4aaeb7.webp",
+         "name": "Suzuki GSX-R150",
+         "brand": "Suzuki",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "350,000 "
+    },
+    {
+     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/yamaha-r15-v3-indian-version-dual-abs-matte-red60d700461568b.webp",
+         "name": "Yamaha R15 V3",
+         "brand": "Yamaha",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "450,000 "
+    },
+    {
+     "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/honda-cb150r-exmotion-black60d8325d1ac40.webp",
+         "name": "Honda CB150R Exmotion",
+         "brand": "Honda",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "320,000 "
+    },
+    {
+     "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+     "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/suzuki-gsx-s150-blue60d70b0516555.webp",
+         "name": "Suzuki GSX-S150 ",
+         "brand": "Suzuki",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "200,000 "
+    },
+    {
+     "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/yamaha-vixion-blue60d70102e946b.webp",
+         "name": "Yamaha Vixion R 155 ",
+         "brand": "Yamaha",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "300,000 "
+    },
+    {
+     "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+     "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/honda-adv-150-black-side-view60d82f7ed3789.webp",
+         "name": "Honda ADV 150 ",
+         "brand": "Honda",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "420,000 "
+    },
+    {
+     "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+     "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1619593354_12_347622.jpeg",
+         "name": "KTM RC 125",
+         "brand": "KTM",
+         "price": "550,000 "
+    },
+    {
+      "id": "9b169efb-0966-40f3-b9c2-79b16cb96388",
+      "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1623757986_12_739871.jpeg",
+         "name": "Bajaj Pulsar NS160 ",
+         "brand": "Bajaj",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "250,000 "
+  
+    },
+    {
+      "id": "fe48e340-4dc9-44b3-911b-9308b4f530b3",
+       "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1619512102_12_234575.jpeg",
+         "name": "Hero Hunk 160 ",
+         "brand": "Hero",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "279,000 "
+  
+    },
+    {
+      "id": "008c06dd-04e4-4923-b840-927bd6b4c2de",
+      "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1619512102_12_234575.jpeg",
+         "name": "TVS Apache RTR 160 4V",
+         "brand": "TVS ",
+         "quantity":"10",
+         "user":"naiem.n123@gmail.com",
+         "price": "290,000 "
+    }
+  ]
